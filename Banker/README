@@ -1,0 +1,14 @@
+Kayli O'Keefe
+Lab3
+
+*** Make sure input files are in the same directory as Lab3.java file
+
+
+COMPILATION
+javac Lab3.java
+
+EXECUTION
+java Lab3 input-XX			
+
+
+(Where xx in input file number 01-13)
